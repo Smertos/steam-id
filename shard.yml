@@ -1,0 +1,9 @@
+name: steam-id
+version: 1.0.0
+
+authors:
+  - Mikhail Vedernikov <misha.smert@gmail.com>
+
+crystal: 0.24.2
+
+license: MIT
